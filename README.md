@@ -2,6 +2,10 @@
 
 Este projeto foi desenvolvido para analisar o desempenho e satisfação dos colaboradores de uma empresa, utilizando Power BI para transformar dados em insights visuais.
 
+## 🔗 Demonstração ao Vivo
+
+▶️ [Clique aqui para acessar o dashboard interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMWZmY2ViYTItNmZhYS00M2MzLTgyNWEtYzc5YzE3YzIwZjM3IiwidCI6ImNlMGZiOTYzLWM2ZjctNDU2Yi04OTI2LTQ5OWY0MDUxODcyMyJ9)
+
 ## 📌 Objetivo
 Fornecer uma visão clara e estratégica sobre:
 - Retenção de funcionários
