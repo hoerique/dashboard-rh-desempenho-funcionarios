@@ -12,7 +12,7 @@ Fornecer uma visão clara e estratégica sobre:
 
 ## 📁 Estrutura do Projeto
 - `relatorio/`: Arquivo .pbix do Power BI
-- `base-de-dados/`: Base de dados usada (Base de dados Fake)
+- `base-de-dados/`:base_colaboradores_rh (Base de dados Fake)
 - `documentacao/`: Documentação técnica do projeto
 - `imagens/`: Capturas de tela do dashboard
 
