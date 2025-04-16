@@ -31,4 +31,4 @@ Fornecer uma visão clara e estratégica sobre:
 - Excel
 
 ## 🧑‍💼 Autor
-[Erique Ferreira Dias](www.linkedin.com/in/erique-ferreira-6451382a2)  
+[Erique Ferreira Dias]([www.linkedin.com/in/erique-ferreira-6451382a2](https://www.linkedin.com/in/erique-ferreira-6451382a2/))  
