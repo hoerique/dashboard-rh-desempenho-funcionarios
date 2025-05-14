@@ -17,12 +17,6 @@ Fornecer uma visão clara e estratégica sobre:
 - `documentacao/`: Documentação técnica do projeto
 - `imagens/`: Capturas de tela do dashboard
 
-## 🧠 Principais Insights
-- Equipes com maior índice de turnover
-- Setores com melhor desempenho
-- Satisfação crescente ao longo dos meses
-- Distribuição entre colaboradores homens e mulheres
-
 ## 🛠️ Ferramentas Utilizadas
 - Microsoft Power BI
 - Excel
