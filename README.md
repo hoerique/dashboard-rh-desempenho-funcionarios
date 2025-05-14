@@ -7,7 +7,10 @@ Fornecer uma visão clara e estratégica sobre:
 - Retenção de funcionários
 - Satisfação de funícionarios
 - Avaliação de Desempenho
-
+- Equipe com alto Turnover
+- Avalição por Desempenho Equipe Geral
+- Evolução da Satisfação ao longo do tempo
+- Relação de Funcionarios que não bateu a meta
 ## 📁 Estrutura do Projeto
 - `relatorio/`: Arquivo .pbix do Power BI
 - `base-de-dados/`:base_colaboradores_rh (Base de dados Fake)
