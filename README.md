@@ -5,10 +5,8 @@ Este projeto foi desenvolvido para analisar o desempenho e satisfação dos cola
 ## 📌 Objetivo
 Fornecer uma visão clara e estratégica sobre:
 - Retenção de funcionários
-- Satisfação ao longo do tempo
-- Turnover por equipe
-- Desempenho por setor
-- Proporção de gênero
+- Satisfação de funícionarios
+- Avaliação de Desempenho
 
 ## 📁 Estrutura do Projeto
 - `relatorio/`: Arquivo .pbix do Power BI
